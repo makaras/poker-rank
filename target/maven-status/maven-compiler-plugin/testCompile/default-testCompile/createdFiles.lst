@@ -1,0 +1,5 @@
+pl\maciejkaras\poker\PokerTest.class
+pl\maciejkaras\poker\rank\RoyalFlushTest.class
+pl\maciejkaras\poker\rank\FullHouseTest.class
+pl\maciejkaras\poker\rank\StraightFlushTest.class
+pl\maciejkaras\poker\rank\FourOfAKindTest.class

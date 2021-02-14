@@ -1,0 +1,16 @@
+pl\maciejkaras\poker\model\Figure.class
+pl\maciejkaras\poker\Poker.class
+pl\maciejkaras\poker\rank\ThreeOfAKind.class
+pl\maciejkaras\poker\rank\TwoPair.class
+pl\maciejkaras\poker\rank\FullHouse.class
+pl\maciejkaras\poker\rank\HighCard.class
+pl\maciejkaras\poker\rank\StraightFlush.class
+pl\maciejkaras\poker\model\Card.class
+pl\maciejkaras\poker\rank\OnePair.class
+pl\maciejkaras\poker\rank\RoyalFlush.class
+pl\maciejkaras\poker\model\PokerHand.class
+pl\maciejkaras\poker\rank\Flush.class
+pl\maciejkaras\poker\rank\PokerRank.class
+pl\maciejkaras\poker\rank\Straight.class
+pl\maciejkaras\poker\rank\FourOfAKind.class
+pl\maciejkaras\poker\model\Colour.class
